@@ -1,0 +1,4 @@
+[
+  {"id": "test-01", "prompt": "a lighthouse on a rocky cliff at dawn, cinematic, moody blue sky", "steps": 4},
+  {"id": "test-02", "prompt": "a vintage printing press in a dim workshop, warm light, film grain", "steps": 4}
+]
